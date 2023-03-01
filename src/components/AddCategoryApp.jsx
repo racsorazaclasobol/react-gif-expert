@@ -22,7 +22,7 @@ export const AddCategoryApp = ({onNewCategory}) => {
       <form onSubmit={(event) => onSubmit(event)} aria-label="form">
         <input 
               type="text"
-              placeholder="Buscar Gif"
+              placeholder="Buscar Gifs"
               value={inputValue}   
               onChange = {(event) => onInputChange(event)}       
           />
