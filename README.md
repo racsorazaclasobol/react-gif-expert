@@ -1,9 +1,7 @@
-# Gif Expert App
+# Aplicacion de GIFs practica curso REACT
+## Incluyen practicas de Testing con Jest
 
-Este es mi repositorio del proyecto de Gif Expert App que aprendí a traves de mi curso de Udemy.
-
-Las tecnologias utilizadas son:
-
-React
-Vite
-Yarn
+Tecnologías utilizadas
+- React.js - Hooks
+- Vite
+- Jest Testing
